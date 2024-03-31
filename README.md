@@ -1,3 +1,3 @@
-Emoji Agme using ReactJS
+Emoji Game using ReactJS
 
 Live link at 
